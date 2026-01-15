@@ -1,0 +1,35 @@
+# Vector Knowledge Base Tool Configuration
+# Copy this file to .env and update with your values
+
+# ============================================================================
+# Milvus Vector Database Configuration
+# ============================================================================
+MILVUS_HOST=localhost
+MILVUS_PORT=19530
+MILVUS_COLLECTION=vector_knowledge_base
+
+# ============================================================================
+# Embedding Configuration
+# ============================================================================
+# Ollama API settings
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=qwen3-embedding:8b
+
+# Embedding dimension (for qwen3-embedding:8b, use 3072)
+EMBEDDING_DIMENSION=3072
+
+# ============================================================================
+# File Ingestion Configuration
+# ============================================================================
+# Default path to folder containing .txt files for ingestion
+# Can be absolute path or relative to the project root
+DEFAULT_TEXT_FOLDER=../Document_Parser_MCP/data/extracted/text
+
+# Default chunking parameters
+DEFAULT_CHUNK_SIZE=1000
+DEFAULT_CHUNK_OVERLAP=200
+
+# ============================================================================
+# Logging Configuration (optional)
+# ============================================================================
+# LOG_LEVEL=INFO

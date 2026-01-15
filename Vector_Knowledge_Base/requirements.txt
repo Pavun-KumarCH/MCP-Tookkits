@@ -1,0 +1,16 @@
+# Vector Knowledge Base Tool Dependencies
+
+# MCP Server
+mcp>=0.9.0
+
+# Milvus Vector Database
+pymilvus>=2.3.0
+
+# HTTP requests for Ollama API
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Standard library dependencies (usually included, but listed for clarity)
+# json, os, logging, pathlib, typing, datetime, uuid - all built-in

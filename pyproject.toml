@@ -12,6 +12,7 @@ dependencies = [
     "requests>=2.31.0",
     "pdfplumber>=0.11.0",
     "pymupdf>=1.24.0",
+    "pymilvus>=2.6.6",
 ]
 
 [project.optional-dependencies]
