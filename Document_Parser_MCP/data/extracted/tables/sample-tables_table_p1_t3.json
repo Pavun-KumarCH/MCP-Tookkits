@@ -1,0 +1,36 @@
+{
+  "page": 1,
+  "table_number": 3,
+  "rows": 6,
+  "columns": 2,
+  "data": [
+    [
+      "Main character",
+      "Daniel Radcliffe"
+    ],
+    [
+      "Sidekick 1",
+      "Rupert Grint"
+    ],
+    [
+      "Sidekick 2",
+      "Emma Watson"
+    ],
+    [
+      "Lovable ogre",
+      "Robbie Coltrane"
+    ],
+    [
+      "Professor",
+      "Maggie Smith"
+    ],
+    [
+      "Headmaster",
+      "Richard Harris"
+    ]
+  ],
+  "headers": [
+    "Main character",
+    "Daniel Radcliffe"
+  ]
+}

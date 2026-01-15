@@ -1,0 +1,56 @@
+
+================================================================================
+CHUNK 1 (Length: 999 chars)
+================================================================================
+
+anatomy of the somatosensory system 1 from wikibooks our somatosensory system consists of sensors in the skin this is a sample document to and sensors in our muscles tendons and joints the re showcase page based formatting it ceptors in the skin the so called cutaneous receptors tell contains a chapter from awikibook us about temperature thermoreceptors pressure and sur calledsensory systems none of the face texture mechano receptors and pain nociceptors content has been changed in this the receptors in muscles and joints provide information article but some content has been about muscle length muscle tension and joint angles removed cutaneous receptors sensory information from meissner corpuscles and rapidly adapting afferents leads to adjustment of grip force when objects are lifted these afferents respond with a brief burst of action potentials when objects move a small dis tance during the early stages of lifting in response to hairy skin glabrous skin figure 1 receptors in the hu
+
+
+================================================================================
+CHUNK 2 (Length: 1000 chars)
+================================================================================
+
+ng the early stages of lifting in response to hairy skin glabrous skin figure 1 receptors in the hu man skin mechanoreceptors can papillary ridges be free receptors or encapsulated examples for free receptors are the hair receptors at the roots of epidermis free nerve merkel s septa hairs encapsulated receptors are ending receptor the pacinian corpuscles and the receptors in the glabrous hair less skin meissner corpuscles meissner s sebac g e l o a u n s d corpuscle dermis ruffini corpuscles and merkel s ruffini s disks corpuscle hair receptor pacinian corpuscle 1 the following description is based on lecture notes from laszlo zaborszky from rutgers university 1 from wikibooks figure 2 mammalian muscle spindle showing typical position in a muscle left neuronal con nections in spinal cord middle and expanded schematic right the spindle is a stretch receptor with its own motor supply con sisting of several intrafusal mus cle fibres the sensory endings of a primary group ia afferent and a
+
+
+================================================================================
+CHUNK 3 (Length: 1000 chars)
+================================================================================
+
+isting of several intrafusal mus cle fibres the sensory endings of a primary group ia afferent and a secondary group ii afferent coil around the non contractile central portions of the intrafusal fibres rapidly adapting afferent activity muscle force increases reflexively until the gripped object no longer moves such a rapid response to a tactile stimulus is a clear indication of the role played by somatosensory neurons in motor ac tivity the slowly adapting merkel s receptors are responsible for form and texture perception as would be expected for receptors mediating form perception merkel s receptors are present at high density in the digits and around the mouth 50 mm of skin surface at lower density in oth er glabrous surfaces and at very low density in hairy skin this innervations density shrinks progressively with the passage of time so that by the age of 50 the density in hu man digits is reduced to 10 mm unlike rapidly adapting axons slowly adapting fibers respond not only to th
+
+
+================================================================================
+CHUNK 4 (Length: 1000 chars)
+================================================================================
+
+gits is reduced to 10 mm unlike rapidly adapting axons slowly adapting fibers respond not only to the ini tial indentation of skin but also to sustained indentation up to several seconds in duration activation of the rapidly adapting pacinian corpuscles gives a feeling of vibration while the slowly adapting ruffini corpuscles respond to the lataral movement or stretching of skin nociceptors nociceptors have free nerve endings functionally skin nociceptors are either high threshold mechanoreceptors or polymodal receptors polymodal receptors respond not 2 anatomy of the somatosensory system rapidly adapting slowly adapting surface receptor hair receptor meissner s corpuscle de merkel s receptor used for spa small receptive tect an insect or a very fine vibration tial details e g a round surface field used for recognizing texture edge or an x in brail deep receptor ruffini s corpuscle a skin pacinian corpuscle a diffuse vibra large receptive stretch used for joint position tion e g tappin
+
+
+================================================================================
+CHUNK 5 (Length: 1000 chars)
+================================================================================
+
+n pacinian corpuscle a diffuse vibra large receptive stretch used for joint position tion e g tapping with a pencil field in fingers table 1 only to intense mechanical stimuli but also to heat and to noxious chemicals these receptors respond to minute punctures of the epithelium with a response magnitude that depends on the degree of tissue deformation they al so respond to temperatures in the range of 40 60 c and change their response rates as a linear function of warm ing in contrast with the saturating responses displayed by non noxious thermoreceptors at high temperatures pain signals can be separated into individual compo notice how figure captions and nents corresponding to different types of nerve fibers sidenotes are shown in the outside used for transmitting these signals the rapidly transmit margin on the left or right depending ted signal which often has high spatial resolution is on whether the page is left or right called first pain or cutaneous pricking pain it is well lo
+
+
+================================================================================
+CHUNK 6 (Length: 1000 chars)
+================================================================================
+
+n is on whether the page is left or right called first pain or cutaneous pricking pain it is well local also figures are floated to the top ized and easily tolerated the much slower highly affec bottom of the page wide content like tive component is called second pain or burning pain it is the table and figure 3 intrude into the poorly localized and poorly tolerated the third or deep outside margins pain arising from viscera musculature and joints is also poorly localized can be chronic and is often associated with referred pain muscle spindles scattered throughout virtually every striated muscle in the body are long thin stretch receptors called muscle spin dles they are quite simple in principle consisting of a few small muscle fibers with a capsule surrounding the middle third of the fibers these fibers are called intrafusal fibers in contrast to the ordinaryextrafusal fibers the ends of the intrafusal fibers are attached to extrafusal fibers so when ever the muscle is stretched the
+
+
+================================================================================
+CHUNK 7 (Length: 999 chars)
+================================================================================
+
+of the intrafusal fibers are attached to extrafusal fibers so when ever the muscle is stretched the intrafusal fibers are also stretched the central region of each intrafusal fiber has 3 from wikibooks force control force golgi tendon organ signal inter force feedback neurons external forces driving muscle signal tendon muscle force length muscle load organs length secondary muscle spindel afferents length error primary muscle spindel afferents length velocity primary muscle spindel afferents velocity feedback length spindles control signal gamma bias figure 3 feedback loops for proprioceptive signals for the perception and control of limb move ments arrows indicate excitatory connections filled circles inhibitory connections few myofilaments and is non contractile but it does have one or more sensory endings applied to it when the mus cle is stretched the central part of the intrafusal fiber is stretched and each sensory ending fires impulses muscle spindles also receive a motor inne
+
+
+================================================================================
+CHUNK 8 (Length: 811 chars)
+================================================================================
+
+fiber is stretched and each sensory ending fires impulses muscle spindles also receive a motor innervation the for more examples of how to use large motor neurons that supply extrafusal muscle fibers html and css for paper based are calledalpha motor neurons while the smaller ones sup publishing seecss4 pub plying the contractile portions of intrafusal fibers are called gamma neurons gamma motor neurons can regu late the sensitivity of the muscle spindle so that this sen sitivity can be maintained at any given muscle length joint receptors the joint receptors are low threshold mechanoreceptors and have been divided into four groups they signal differ ent characteristics of joint function position movements direction and speed of movements the free receptors or type 4 joint receptors are nociceptors 4
+

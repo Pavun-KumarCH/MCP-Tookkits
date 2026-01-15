@@ -1,0 +1,38 @@
+{
+  "page": 5,
+  "table_number": 3,
+  "rows": 4,
+  "columns": 4,
+  "data": [
+    [
+      "Question",
+      "Respondent A",
+      "Respondent B",
+      "Respondent C"
+    ],
+    [
+      "Are you a UK citizen?",
+      "No",
+      "Yes",
+      "No"
+    ],
+    [
+      "Are you currently employed?",
+      "Yes",
+      "No",
+      "Yes"
+    ],
+    [
+      "Do you have a driving licence?",
+      "No",
+      "No",
+      "Yes"
+    ]
+  ],
+  "headers": [
+    "Question",
+    "Respondent A",
+    "Respondent B",
+    "Respondent C"
+  ]
+}

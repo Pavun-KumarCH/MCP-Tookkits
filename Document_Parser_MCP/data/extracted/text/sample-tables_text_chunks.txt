@@ -1,0 +1,63 @@
+
+================================================================================
+CHUNK 1 (Length: 999 chars)
+================================================================================
+
+design and build accessible pdf tables sample tables table 1 column header th column header th column header th row header th data cell td data cell td row header th data cell td data cell td table 2 example of footnotes referenced from within a table expenditure by function million 2009 10 2010 11 1 policy functions financial 22 5 30 57 information 2 10 2 14 8 contingency 2 6 1 2 remunerated functions agency services 3 44 7 35 91 payments 22 41 19 88 banking 22 90 44 23 other 12 69 10 32 1 provisional total as of publication date 2 costs associated with on going information programmes 3 from the management accounts net of recoveries including interest charges table 3 film credits style layout main character daniel radcliffe sidekick 1 rupert grint sidekick 2 emma watson lovable ogre robbie coltrane professor maggie smith headmaster richard harris table 4 table 3 with column headers added role actor main character daniel radcliffe sidekick 1 rupert grint sidekick 2 emma watson lovable
+
+
+================================================================================
+CHUNK 2 (Length: 1000 chars)
+================================================================================
+
+d role actor main character daniel radcliffe sidekick 1 rupert grint sidekick 2 emma watson lovable ogre robbie coltrane professor maggie smith headmaster richard harris table 5 year end financial statement thousands 2010 2009 2008 non current assets property 345 445 222 investment 567 654 423 intangibles 423 123 453 current assets trade and other receivables 435 634 231 cash and cash equivalents 524 123 482 other 223 211 254 table 6 a table with a more serious headings problem rainfall americas asia europe africa inches 2010 average 104 201 193 144 24 hour high 15 26 27 18 12 hour high 9 10 11 12 2009 average 133 244 155 166 24 hour high 27 28 29 20 12 hour high 11 12 13 16 table 7 year end statement non current assets thousands non current assets 2010 2009 2008 property 345 445 222 investment 567 654 423 intangibles 423 123 453 table 8 year end statement current assets thousands current assets 2010 2009 2008 trade and other receivables 435 634 231 cash and cash equivalents 524 123 48
+
+
+================================================================================
+CHUNK 3 (Length: 1000 chars)
+================================================================================
+
+t assets 2010 2009 2008 trade and other receivables 435 634 231 cash and cash equivalents 524 123 482 other 223 211 254 table 9 rainfall by continent 2009 rainfall inches americas asia europe africa average 133 244 155 166 24 hour high 27 28 29 20 12 hour high 11 12 13 16 table 10 self contained year end statement thousands multiple layout problems 2011 2010 restated general income 250 000 200 000 increase in value wip 15 000 30 000 265 000 230 000 administrative costs staff costs 200 000 150 000 early departures 10 000 20 000 other 25 000 10 000 depreciation 10 000 10 000 progr amme costs impairment loss 10 000 5 000 other 5 000 5 000 260 000 200 000 surplus 5 000 30 000 table 11 self contained year end statement thousands multiple problems resolved 2011 2010 restated income general income 250 000 200 000 increase in value 15 000 30 000 total income 265 000 230 000 administrative costs staff costs 200 000 150 000 early departures 10 000 20 000 other operating costs 25 000 10 000 depre
+
+
+================================================================================
+CHUNK 4 (Length: 1000 chars)
+================================================================================
+
+staff costs 200 000 150 000 early departures 10 000 20 000 other operating costs 25 000 10 000 depreciation 10 000 10 000 programme costs impairment loss 10 000 5 000 other 5 000 5 000 total costs 260 000 200 000 surplus 5 000 30 000 table 12 merged data cells are not recommended 2008 2009 name yes no yes no bob 2 5 6 7 sue 3 8 4 7 sam data relating to both columns in data relating to both columns in a single cell spanning both a single cell spanning both table 13 use of graphic symbols question respondent a respondent b respondent c are you a uk citizen are you currently employed do you have a driving licence table 14 symbols replaced by real text question respondent a respondent b respondent c are you a uk citizen no yes no are you currently employed yes no yes do you have a driving licence no no yes table 15 courses offered by institution x a bachelor of science b bachelor of arts c masters d doctorate e diploma 2006 2007 2008 2009 economics a b a c a b a c international relations a
+
+
+================================================================================
+CHUNK 5 (Length: 1000 chars)
+================================================================================
+
+asters d doctorate e diploma 2006 2007 2008 2009 economics a b a c a b a c international relations a e a e a b a e philosophy a a a a d politics a d a d a d a mathematics b c b a e a b english a c a b a b c table 16 masters courses offered by institution x 2006 2007 2008 2009 economics no yes yes yes international relations no no no no philosophy no no no no politics no no no no mathematics yes no no no english yes yes yes yes table 17 accounts 2011 thousands accounting item 2011 income general income 200 000 increase in value wip 30 000 income subtotal 230 000 administrative costs staff 150 000 early departures 20 000 other operating costs 10 000 depreciation 10 000 programme costs impairment loss 10 000 costs subtotal 200 000 balance 30 000 table 18 accounts 2011 thousands accounting item 2011 income general income 200 000 increase in value wip 30 000 income subtotal 230 000 administrative costs staff 150 000 early departures 20 000 other operating costs 10 000 depreciation 10 000 pr
+
+
+================================================================================
+CHUNK 6 (Length: 1000 chars)
+================================================================================
+
+tive costs staff 150 000 early departures 20 000 other operating costs 10 000 depreciation 10 000 programme costs impairment loss 10 000 costs subtotal 200 000 balance 30 000 table 19 human development index hdi trends 1980 to 2010 source barro lee march 2010 country 1980 1990 2000 2010 afghanistan 0 78 1 48 2 16 3 33 albania 8 89 9 67 9 89 10 38 algeria 4 74 3 33 5 50 7 24 andorra 4 98 5 63 9 09 10 35 angola 4 42 4 42 table 20 footnotes referenced from within a table expenditure by function million 2009 10 2010 111 policy functions financial 22 5 30 57 information2 10 2 14 8 contingency 2 6 1 2 remunerated functions agency services 3 44 7 35 91 payments 22 41 19 88 banking 22 90 44 23 other 12 69 10 32 1 provisional total as of publication date 2 costs associated with on going information programmes 3 from the management accounts net of recoveries and including interest charges table 21 footnotes replaced by additional table summary text expenditure by function million 2009 10 2010 11
+
+
+================================================================================
+CHUNK 7 (Length: 998 chars)
+================================================================================
+
+footnotes replaced by additional table summary text expenditure by function million 2009 10 2010 11 policy functions financial 22 5 30 57 information 10 2 14 8 contingency 2 6 1 2 remunerated functions agency services 44 7 35 91 payments 22 41 19 88 banking 22 90 44 23 other 12 69 10 32 table 22 referencing multiple endnotes from within a table expenditure m notes 2010 2011 notes located on page n information 1 10 2 14 8 contingency 2 6 1 2 payments 3 22 41 19 88 banking services 4 22 90 44 23 interest 0 23 0 10 dividends 23 2 5 3 68 other 9 12 69 10 32 table 23 simulated table created using tabs and containing no structure 2008 2009 name entered completed entered completed bob 22 21 20 19 sue 44 12 12 10 table 24 year end financial statement thousands 2010 2009 2008 non current assets buildings 345 445 222 investment 567 654 423 intangibles 423 123 453 current assets trade 435 634 231 cash 524 123 482 other 223 211 254 current liabilities trade liabilities 154 125 421 financial debt
+
+
+================================================================================
+CHUNK 8 (Length: 1000 chars)
+================================================================================
+
+cash 524 123 482 other 223 211 254 current liabilities trade liabilities 154 125 421 financial debt 231 474 572 provisions 111 312 347 table 25 setting column and row scope via the tags panel 2008 2009 name entered won entered won bob 22 21 20 19 sue 44 12 12 10 sam 16 4 45 30 table 26 courses offered by institution x a bachelor of science b bachelor of arts c masters d doctorate e diploma 2006 2007 2008 2009 economics a b a c a c a c international relations a e a e a b a b philosophy a a a a politics a d a d a b a mathematics b c b a b a b english a c a b a b a c table 27 table with columns simulated by using tab stops name apples pears bob scott 20 25 susan p arnold jones ba frsa md 24 15 sam holder dickinson 14 10 table 28 year end financial table thousands headings problem revisited 2010 2009 2008 non current assets buildings 345 445 222 investment 567 654 423 intangibles 423 123 453 current assets trade 435 634 231 cash 524 123 482 other 223 211 254 current liabilities trade liabi
+
+
+================================================================================
+CHUNK 9 (Length: 632 chars)
+================================================================================
+
+current assets trade 435 634 231 cash 524 123 482 other 223 211 254 current liabilities trade liabilities 154 125 421 financial debt 231 474 572 provisions 111 312 347 table 29 multiple headers attributes for each data cell south america asia africa australia 2010 highest average 523 6 467 4 405 0 340 5 highest in 24 hours 73 1 54 1 27 2 66 3 highest in 12 hours 42 4 30 1 15 9 40 3 2009 highest average 487 7 453 6 398 7 356 highest in 24 hours 67 2 53 2 44 3 53 8 highest in 12 hours 34 7 34 1 29 8 31 0 2008 highest average 496 7 444 3 502 1 399 6 highest in 24 hours 44 2 56 7 32 1 63 2 highest in 12 hours 30 1 32 7 21 9 40 2
+

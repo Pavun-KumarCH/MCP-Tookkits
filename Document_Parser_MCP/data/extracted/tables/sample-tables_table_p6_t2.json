@@ -1,0 +1,68 @@
+{
+  "page": 6,
+  "table_number": 2,
+  "rows": 11,
+  "columns": 3,
+  "data": [
+    [
+      "Accounting item",
+      null,
+      "2011"
+    ],
+    [
+      "Income",
+      "General income",
+      "200,000"
+    ],
+    [
+      null,
+      "Increase in value, WIP",
+      "30,000"
+    ],
+    [
+      null,
+      "Income subtotal",
+      "230,000"
+    ],
+    [
+      "Administrative costs",
+      "Staff",
+      "150,000"
+    ],
+    [
+      null,
+      "Early departures",
+      "20,000"
+    ],
+    [
+      null,
+      "Other operating costs",
+      "10,000"
+    ],
+    [
+      null,
+      "Depreciation",
+      "10,000"
+    ],
+    [
+      "Programme costs",
+      "Impairment loss",
+      "10,000"
+    ],
+    [
+      null,
+      "Costs subtotal",
+      "200,000"
+    ],
+    [
+      "Balance",
+      null,
+      "30,000"
+    ]
+  ],
+  "headers": [
+    "Accounting item",
+    null,
+    "2011"
+  ]
+}

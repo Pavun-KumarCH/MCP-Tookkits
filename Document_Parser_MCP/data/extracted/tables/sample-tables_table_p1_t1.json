@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "table_number": 1,
+  "rows": 3,
+  "columns": 3,
+  "data": [
+    [
+      "Column header (TH)",
+      "Column header (TH)",
+      "Column header (TH)"
+    ],
+    [
+      "Row header (TH)",
+      "Data cell (TD)",
+      "Data cell (TD)"
+    ],
+    [
+      "Row header(TH)",
+      "Data cell (TD)",
+      "Data cell (TD)"
+    ]
+  ],
+  "headers": [
+    "Column header (TH)",
+    "Column header (TH)",
+    "Column header (TH)"
+  ]
+}

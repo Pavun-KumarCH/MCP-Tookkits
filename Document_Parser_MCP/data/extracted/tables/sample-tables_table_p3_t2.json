@@ -1,0 +1,38 @@
+{
+  "page": 3,
+  "table_number": 2,
+  "rows": 4,
+  "columns": 4,
+  "data": [
+    [
+      "Current assets",
+      "2010",
+      "2009",
+      "2008"
+    ],
+    [
+      "Trade and other receivables",
+      "435",
+      "634",
+      "231"
+    ],
+    [
+      "Cash and cash equivalents",
+      "524",
+      "123",
+      "482"
+    ],
+    [
+      "Other",
+      "223",
+      "211",
+      "254"
+    ]
+  ],
+  "headers": [
+    "Current assets",
+    "2010",
+    "2009",
+    "2008"
+  ]
+}

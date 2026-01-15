@@ -1,0 +1,50 @@
+{
+  "page": 5,
+  "table_number": 1,
+  "rows": 5,
+  "columns": 5,
+  "data": [
+    [
+      "",
+      "2008",
+      null,
+      "2009",
+      null
+    ],
+    [
+      "Name",
+      "Yes",
+      "No",
+      "Yes",
+      "No"
+    ],
+    [
+      "Bob",
+      "2",
+      "5",
+      "6",
+      "7"
+    ],
+    [
+      "Sue",
+      "3",
+      "8",
+      "4",
+      "7"
+    ],
+    [
+      "Sam",
+      "[data relating to both columns in\na single cell spanning both]",
+      null,
+      "[data relating to both columns in\na single cell spanning both]",
+      null
+    ]
+  ],
+  "headers": [
+    "",
+    "2008",
+    null,
+    "2009",
+    null
+  ]
+}

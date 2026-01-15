@@ -1,0 +1,28 @@
+{
+  "page": 3,
+  "table_number": 1,
+  "rows": 3,
+  "columns": 3,
+  "data": [
+    [
+      "",
+      "Rapidly adapting",
+      "Slowly adapting"
+    ],
+    [
+      "Surface receptor /\nsmall receptive\nfield",
+      "Hair receptor,Meissner’s corpuscle: De-\ntect an insect or a very fine vibration.\nUsed for recognizing texture.",
+      "Merkel’s receptor: Used for spa-\ntial details, e.g. a round surface\nedge or “an X” in brail."
+    ],
+    [
+      "Deep receptor /\nlarge receptive\nfield",
+      "Pacinian corpuscle: “A diffuse vibra-\ntion” e.g. tapping with a pencil.",
+      "Ruffini’s corpuscle: “A skin\nstretch”. Used for joint position\nin fingers."
+    ]
+  ],
+  "headers": [
+    "",
+    "Rapidly adapting",
+    "Slowly adapting"
+  ]
+}

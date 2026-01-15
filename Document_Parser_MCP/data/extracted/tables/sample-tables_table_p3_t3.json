@@ -1,0 +1,43 @@
+{
+  "page": 3,
+  "table_number": 3,
+  "rows": 4,
+  "columns": 5,
+  "data": [
+    [
+      "Rainfall (inches)",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Africa"
+    ],
+    [
+      "Average",
+      "133",
+      "244",
+      "155",
+      "166"
+    ],
+    [
+      "24 hour high",
+      "27",
+      "28",
+      "29",
+      "20"
+    ],
+    [
+      "12 hour high",
+      "11",
+      "12",
+      "13",
+      "16"
+    ]
+  ],
+  "headers": [
+    "Rainfall (inches)",
+    "Americas",
+    "Asia",
+    "Europe",
+    "Africa"
+  ]
+}
