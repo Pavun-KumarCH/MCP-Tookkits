@@ -1,0 +1,34 @@
+{
+  "name": "Sample Data File",
+  "version": "1.0.0",
+  "description": "This is a dummy JSON file for testing file operations",
+  "author": {
+    "name": "Test User",
+    "email": "test@example.com"
+  },
+  "items": [
+    {
+      "id": 1,
+      "title": "First Item",
+      "description": "This is the first test item",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Second Item",
+      "description": "This is the second test item",
+      "active": false
+    },
+    {
+      "id": 3,
+      "title": "Third Item",
+      "description": "This is the third test item",
+      "active": true
+    }
+  ],
+  "metadata": {
+    "created": "2024-01-15",
+    "updated": "2024-01-20",
+    "tags": ["test", "dummy", "sample"]
+  }
+}

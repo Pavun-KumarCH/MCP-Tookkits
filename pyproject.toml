@@ -1,0 +1,17 @@
+[project]
+name = "production-tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=1.0.0",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "reportlab>=4.4.9",
+]
+
+[project.optional-dependencies]
+pdf = ["PyPDF2", "reportlab"]
+doc = ["python-docx"]
+all = ["PyPDF2", "reportlab", "python-docx"]

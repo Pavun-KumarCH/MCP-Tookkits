@@ -1,0 +1,34 @@
+Test Document for File Reader Tool
+=====================================
+
+This is a test document created to verify the file reading functionality.
+
+Section 1: Introduction
+------------------------
+The file reader tool should be able to read this text file without any issues.
+It supports multiple file formats including TXT, JSON, PDF, and DOC files.
+
+Section 2: Features
+-------------------
+- Read text files (.txt)
+- Read JSON files (.json) with proper formatting
+- Read PDF files (.pdf) and extract text content
+- Read DOC/DOCX files (.doc, .docx) and extract paragraphs
+
+Section 3: Testing
+------------------
+This file can be used to test:
+1. Basic text file reading
+2. Encoding handling (UTF-8)
+3. Multi-line content processing
+4. Special characters: àáâãäå, éèêë, ñ, ü, ö
+
+Section 4: Sample Data
+----------------------
+Here are some sample data points:
+- Temperature: 25.5°C
+- Price: $99.99
+- Date: 2024-01-20
+- Time: 14:30:00
+
+End of Test Document

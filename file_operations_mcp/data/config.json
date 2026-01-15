@@ -1,0 +1,17 @@
+{
+  "application": {
+    "name": "File Operations MCP",
+    "version": "1.0.0"
+  },
+  "settings": {
+    "data_directory": "./data",
+    "supported_formats": ["txt", "json", "pdf", "doc", "docx"],
+    "max_file_size": "10MB",
+    "encoding": "utf-8"
+  },
+  "features": {
+    "read_enabled": true,
+    "write_enabled": true,
+    "validation_enabled": true
+  }
+}
