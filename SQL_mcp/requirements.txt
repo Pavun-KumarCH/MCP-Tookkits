@@ -1,0 +1,22 @@
+# SQL/DB Query Tool Dependencies
+
+# MCP Server
+mcp>=0.9.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# SQLite (built-in, but listed for clarity)
+# sqlite3 - included in Python standard library
+
+# PostgreSQL driver
+psycopg2-binary>=2.9.0
+
+# MySQL/MariaDB driver
+pymysql>=1.1.0
+
+# MongoDB driver
+pymongo>=4.6.0
+
+# Standard library dependencies (usually included, but listed for clarity)
+# json, os, logging, typing, re - all built-in
